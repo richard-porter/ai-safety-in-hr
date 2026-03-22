@@ -175,13 +175,6 @@ Vendor evaluations against the safety ledgers are explicitly invited. Independen
 
 The goal is not to block AI in HR. The goal is a defensible record that the human who signed off on the deployment can stand behind.
 
------
-
-## Author
-
-Richard Porter (pen name) · SPHR · Master’s in HR, Loyola University · Six Sigma Green Belt · 25+ years enterprise HR including Rolls-Royce North America and Navient · Four nonprofit boards
-
-*Sovereign humans. Always.*
 
 -----
 
