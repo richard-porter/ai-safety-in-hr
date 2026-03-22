@@ -647,16 +647,4 @@ Sections 2 and 4.
 
 *Recruitment and Hiring Mode Safety Ledger · v1.0 · March 2026*
 
-*Part of the AI Safety in HR Framework · AI Collaboration Field Guide
-ecosystem*
 
-*Richard Porter · SPHR · 25+ years enterprise HR ·
-github.com/richard-porter*
-
-***Sovereign humans. Always.***
-
------
-
-*Safety Ledger Series · Part of the AI Safety in HR Framework*
-*AI Collaboration Field Guide ecosystem · Richard Porter · 2026*
-*Sovereign humans. Always.*
