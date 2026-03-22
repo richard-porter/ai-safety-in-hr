@@ -167,6 +167,6 @@ If the answer to any of these is “the AI handled it” — the organization is
 
 -----
 
-*Richard Porter has 20+ years of HR experience in Fortune 500 environments including Rolls-Royce North America. SPHR certified. This framework draws on direct HRBP practice, Six Sigma process methodology, and systematic AI behavioral research.*
 
-*Sovereign humans. Always.*
+
+
