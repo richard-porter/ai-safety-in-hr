@@ -1,0 +1,120 @@
+# AI Safety in Nonprofit HR
+
+*For small HR shops, nonprofit boards, and organizations without a dedicated AI governance function.*
+
+**Audience:** Nonprofit HR leaders, small HR shops, board members with HR oversight
+
+*Richard Porter · Part of the AI Safety in HR Framework · 2026*
+
+-----
+
+> **Who This Is For**
+> You are running HR for a nonprofit or small organization where “the HR function” may be one person — or a board committee. You are being asked to evaluate or deploy AI tools with limited legal support, limited budget, and very real exposure. This toolkit is written for that reality.
+
+-----
+
+## Why Nonprofits Face a Different Risk Profile
+
+Large enterprises have legal teams, compliance departments, and HR technology governance functions reviewing these decisions. Nonprofits typically have none of these. What nonprofits do have — in common with any employer — is full exposure to the same legal consequences when AI-assisted HR decisions go wrong.
+
+**Three risks specific to nonprofit HR:**
+
+**1. No internal check.** The person evaluating the AI tool is often the same person who will use it. There is no second set of eyes between evaluation and deployment.
+
+**2. Volunteer and staff blur.** The line between volunteer and employee is already a compliance risk. AI tools that process both without distinguishing them amplify it. An AI that generates a termination recommendation for what it classifies as an “employee” may be acting on someone who is legally a volunteer — or vice versa.
+
+**3. Resource pressure.** Nonprofits are particularly vulnerable to AI tools marketed as cost-saving substitutes for HR staff — which tend to carry the highest legal risk. The cheapest AI HR tool is usually the one with the least governance infrastructure.
+
+-----
+
+## The Quadrant Map for Nonprofit HR
+
+|Quadrant                 |Nonprofit Application                                      |Risk    |Nonprofit-Specific Caution                                                                                                                  |
+|-------------------------|-----------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|**Strategic Partner**    |Succession planning for ED role, board composition strategy|HIGH    |Small orgs often have no succession depth. AI creates false confidence where honest acknowledgment of the gap is safer.                     |
+|**Change Agent**         |Culture assessment, staff engagement surveys               |MODERATE|Sentiment data misused by boards without human interpretation. Small staff means individual employees may be identifiable in aggregate data.|
+|**Employee Champion**    |Staff relations, accommodation, investigation response     |HIGHEST |In small orgs, the ED is often both the HR function and the subject of complaints. This conflict cannot be resolved by AI.                  |
+|**Administrative Expert**|Payroll, benefits, onboarding, policy templates            |MODERATE|Most useful quadrant — but only after process accuracy is confirmed. Automating a wrong process is worse than the manual version.           |
+
+-----
+
+## The Nonprofit Employee Champion Problem
+
+In a large organization, the Employee Champion quadrant is staffed by trained ER professionals. In a nonprofit, it is often the ED, the board chair, or a volunteer with HR experience.
+
+This structural difference makes AI deployment in this quadrant **more** dangerous, not less.
+
+> An AI tool used for employee relations intake in a small nonprofit may be the only “HR system” the organization has. When an employee uses it to raise a concern, the legal exposure is identical to a Fortune 500 ER interaction. The tool does not know it is operating in a resource-constrained environment. Neither does the court.
+
+**Hard rules for nonprofits in the Employee Champion space:**
+
+- Do not use AI as the first point of contact for any concern involving a named person
+- Do not use AI to generate investigation documentation without a human reviewing and signing off
+- If your organization does not have a written complaint reporting process, build that before deploying any HR AI tool
+- The board must be told when AI is used in any process that touches employment decisions
+
+-----
+
+## AI Tools Nonprofits Are Most Likely to Encounter
+
+|Tool Type                                          |Risk Context                              |What to Check                                                                                             |
+|---------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|
+|AI-assisted job description generation             |Administrative Expert.                    |Review for FLSA classification before posting.                                                            |
+|AI-assisted resume screening                       |Strategic Partner / Administrative Expert.|Require demographic parity documentation before use. Highest proxy variable risk.                         |
+|AI-assisted employee handbooks and policy templates|Administrative Expert.                    |Treat as starting draft — requires attorney review before distribution.                                   |
+|AI chatbots for HR policy questions                |Depends on configuration.                 |If employees ask about their employment rights, this is Employee Champion territory. Apply that checklist.|
+|AI sentiment or engagement surveys                 |Change Agent.                             |Requires human interpretation before board review. Check whether individual employees are identifiable.   |
+|AI scheduling or volunteer management tools        |Administrative Expert.                    |Lower risk — but volunteer/employee classification must be clear first.                                   |
+
+-----
+
+## Mr. Wolff Diagnostic Integration
+
+If your organization has used the Mr. Wolff Nonprofit Governance Rescue Kit diagnostic, the AI safety layer maps to existing modules:
+
+|Mr. Wolff Module                           |AI Safety Addition                                                                                          |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|Module 5: Operational Capacity             |Add: What AI tools are currently used in HR? Who authorized them? Is there documentation?                   |
+|Module 6: People & Employment Practices    |Add: Are any hiring, evaluation, or termination decisions informed by AI output? Is human review documented?|
+|Module 7: Investigation & Dispute Readiness|Add: If a complaint arises about an AI-assisted decision, can you defend the process?                       |
+|**New: AI Governance Check**               |Is there a named human owner for each AI tool? Has each tool been mapped to a quadrant?                     |
+
+-----
+
+## Minimum Viable AI Governance — Five Steps
+
+You do not need a full framework. You need the minimum that protects you:
+
+**Step 1: Name a human owner for every AI tool used in HR.** Not “the system” — a person. If the tool produces an output that gets someone fired, this is the person who will be asked what they reviewed.
+
+**Step 2: Map each tool to a quadrant.** Know the risk level before you use it. A 10-minute exercise with the quadrant table above is sufficient.
+
+**Step 3: For any output that influences a hiring, evaluation, or termination decision** — document the human review. Date, reviewer name, decision. A note in a file is enough. Nothing is worse than nothing.
+
+**Step 4: Run the Wrongful Termination Test** on any tool in the Employee Champion quadrant before deployment: *If this AI output were entered as evidence in a wrongful termination proceeding, could I defend every step of the process that produced it?*
+
+**Step 5: Put AI tool review on the compliance calendar.** Once a year minimum. Tools update. Risk profiles change. The authorization you did in 2024 does not cover what the tool does in 2026.
+
+> *Never let “the AI handled it” be the answer to any question about how an employment decision was made.*
+
+-----
+
+## Board Oversight: What the Board Needs to Know
+
+If you are a board member with HR oversight, these are the five questions your HR function should be able to answer:
+
+- What AI tools are currently used in our HR or people operations function?
+- Who is the named human owner for each tool?
+- Have any employment decisions in the past year been influenced by AI output? Is there documentation of human review?
+- Has an employment attorney reviewed the configuration of any tool used in employee-facing contexts?
+- Is there a process for an employee to challenge an AI-assisted decision?
+
+These questions do not require technical expertise. They require governance awareness. If your HR function cannot answer them, that is the finding.
+
+-----
+
+> *In a small nonprofit, AI governance is not a technology project. It is a documentation discipline: know what tools you are using, name who is accountable, and record every human decision that AI output influenced.*
+
+*Connects to: [Mr. Wolff Nonprofit Governance Rescue Kit](https://github.com/richard-porter/sovereign-thinking-tools)*  
+*Full quadrant analysis: [HRBP-master-framework.md](../HRBP-master-framework.md)*  
+*Sovereign humans. Always.*
