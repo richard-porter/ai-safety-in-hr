@@ -14,7 +14,7 @@
 
 -----
 
-**Validated at:** Kids Coats, Inc. (Executive Director search, 2025–2026). Extracted to general-purpose form for reuse across any small organization — nonprofit, small business, association, or community entity — hiring its first paid leader, replacing an outgoing key person, or creating a new role.
+**Validated in:** A nonprofit Executive Director search. Extracted to general-purpose form for reuse across any small organization — nonprofit, small business, association, or community entity — hiring its first paid leader, replacing an outgoing key person, or creating a new role.
 
 -----
 
@@ -339,12 +339,14 @@ A typical hiring process for a key role runs 10–14 weeks from posting to start
 
 ## Evidentiary Chain
 
-|Period   |Organization        |Sector            |Evidence                                                                                                                                                                                                                                                                                                |
-|---------|--------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2005–2010|Rolls-Royce NA      |Aerospace/Defense |Customized recruiting plans for critical/specialty skills. University relations program. Onboarding program with market intelligence process. Recognition and management training programs.                                                                                                             |
-|2010–2024|Navient             |Financial Services|Talent reviews and succession planning. Retention strategy development. Performance management consulting to senior leadership. Workforce planning and bench strength reviews.                                                                                                                          |
-|2003–2005|St. Bernard Hospital|Healthcare        |Created Performance Evaluation System. Trained managers on evaluation. Reduced overdue evaluation rates by 20%. Conducted salary surveys and revised compensation structure.                                                                                                                            |
-|2025–2026|Kids Coats, Inc.    |Nonprofit         |Complete ED hiring framework: job description, Master Plan with 8 appendices, multi-stage evaluation framework, resume screening system, recruitment checklist, interviewer guide, STAR interview questions, onboarding plan, 90-day and annual review structure. Live validation of entire methodology.|
+*Organizations, dates, and identifying performance figures omitted for privacy.*
+
+|Sector            |Evidence                                                                                                                                                                                                                                                                                                |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Aerospace/Defense |Customized recruiting plans for critical/specialty skills. University relations program. Onboarding program with market intelligence process. Recognition and management training programs.                                                                                                             |
+|Financial Services|Talent reviews and succession planning. Retention strategy development. Performance management consulting to senior leadership. Workforce planning and bench strength reviews.                                                                                                                          |
+|Healthcare        |Created Performance Evaluation System. Trained managers on evaluation. Reduced overdue evaluation rates. Conducted salary surveys and revised compensation structure.                                                                                                                            |
+|Nonprofit         |Complete ED hiring framework: job description, Master Plan with 8 appendices, multi-stage evaluation framework, resume screening system, recruitment checklist, interviewer guide, STAR interview questions, onboarding plan, 90-day and annual review structure. Live validation of entire methodology.|
 
 -----
 

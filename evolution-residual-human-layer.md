@@ -214,4 +214,4 @@ The five residual roles described in this document are not the entire future of 
 *Richard Porter · AI Collaboration Field Guide ecosystem · 2026*  
 *Sovereign humans. Always. · Festina lente.*
 
-*This document emerged from a 62-thread research program on human-AI collaboration, sovereignty-by-design architecture, and AI behavioral diagnostics. Validated across 25+ years of enterprise HR practice including Rolls-Royce North America, Navient, and nonprofit governance engagements.*
+*This document emerged from a 62-thread research program on human-AI collaboration, sovereignty-by-design architecture, and AI behavioral diagnostics. Validated through enterprise HR practice and nonprofit governance engagements.*
